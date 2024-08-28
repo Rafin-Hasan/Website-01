@@ -151,6 +151,9 @@ const FooterComponent = () => {
           </div>
           {/* ========== Social media section start ============ */}
         </div>
+        <div className="bg-[#524b6b] py-[21px] m-auto text-center font font-semibold text-[17px] leading-6 text-white">
+          <p>Copyright 2021. All Right Reserved</p>
+        </div>
       </section>
     </>
   );
